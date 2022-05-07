@@ -21,9 +21,6 @@ export class App {
       return response.status(200).json({
         service: 'API',
         version: '1',
-        resources: [
-          `POST: ${3000}/feedbacks`,
-        ]
       })
     })
     for (let route of routes) {
