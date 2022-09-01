@@ -33,6 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/pt-br/)
 - [Prisma](https://www.prisma.io/)
+- [Postgresql](https://www.postgresql.org/docs/)
+- [ReactJS](https://reactjs.org/)
 
 ## 🚀 Como executar a API
 
